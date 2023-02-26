@@ -1,0 +1,11 @@
+pwd
+who am i
+ls - list the files in a directory
+ls -l
+ip addr show
+free - shows memory
+free -m
+df - dishfree
+df -h
+cat - read the file
+ 
