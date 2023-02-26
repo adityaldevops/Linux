@@ -8,4 +8,29 @@ free -m
 df - dishfree
 df -h
 cat - read the file
+findmnt - file mount
+works with bash shell default
+useradd --> usera tab autocompletion
+user --> tab
+sys --> tab
+systemd-m --> tab
+--history
+! command line number --> command auto runs
+!f -- shows previous command
+ctrl+r
+--piping
+ps aux | less
+--redirection
+ls
+ls > lsfiles
+cat lsfiles
+> --override
+ls >> lsfiles
+>> --append means add
+ls *
+--Environment Variables
+env
+env | less  
+aliases
+alias h=history
  
