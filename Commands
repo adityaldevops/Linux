@@ -33,4 +33,6 @@ env
 env | less  
 aliases
 alias h=history
- 
+Comm
+
+add
