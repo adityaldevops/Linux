@@ -1,0 +1,10 @@
+image.png
+Standard input standard output standard error4
+filename
+
+ls /etc/ > etcfile
+
+grep -R linuxteam
+grep is to search
+to see output clearly grep -R linuxteam /etc 2> /dev/null
+ls -l /etc/ | grep host
